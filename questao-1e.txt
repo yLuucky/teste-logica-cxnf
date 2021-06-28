@@ -1,0 +1,2 @@
+Resultado A - 12
+Resultado A , B - 14 , 13

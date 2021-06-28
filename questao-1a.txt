@@ -1,0 +1,2 @@
+Resultado B - 20 
+Resultado A,B - 10 , 5
